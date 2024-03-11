@@ -26,7 +26,6 @@
   };
 
   struct Biblioteca{
-
     Livro livros[10];
     int j = 0, book_cad=0;;
 
@@ -41,8 +40,7 @@
         } 
         printf("Deseja cadastrar outro livro? S/N\n");
         scanf("%c%*c", &x);
-        x = toupper(x);
-        
+        x = toupper(x); 
       }
     }
     void imprimir(){
