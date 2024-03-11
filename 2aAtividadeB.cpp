@@ -1,4 +1,6 @@
 /*3o Periodo ADS: JULLIA KAROLINA DE PAULA*/ 
+/*2a Atividade - QUESTÃO 2*/
+
 #include <stdio.h>
 #include <ctype.h>
 
